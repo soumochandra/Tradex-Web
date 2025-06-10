@@ -1,14 +1,7 @@
 alert("Are you sure to open this page?");
 console.log("Code is running!");
 
-// var a= prompt("Your number is")
-// var istrue = confirm("Are you sure on this web")
-// if(istrue){
-//     console.log("You are a chutiya")
-// }
-// else{
-//     console.log("You are not a chutiya")
-// }
+
 
 // let a= 5;
 // let b= 7;
